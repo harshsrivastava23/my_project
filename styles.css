@@ -1,0 +1,52 @@
+body{
+  font-family: 'Spartan', sans-serif;
+}
+h1,h3,h4{
+  font-weight: bold;
+}
+.navbar{
+  padding: 25px;
+}
+
+
+.top-img{
+  background-image: url("images/desktop-image-hero-1.jpg");
+  background-size: cover;
+  position: relative;
+  height: 64vh;
+}
+.top-img2{
+  background-image: url("images/desktop-image-hero-2.jpg");
+  background-size: cover;
+  position: relative;
+  height: 64vh;
+}
+.top-img3{
+  background-image: url("images/desktop-image-hero-3.jpg");
+  background-size: cover;
+  position: relative;
+  height: 64vh;
+}
+.top-content{
+
+padding: 60px;
+}
+.top-content a{
+  color: black;
+}
+p{
+  font-size: 12px;
+  color: grey;
+}
+.left-img{
+background-image: url("images/image-about-dark.jpg");
+background-size: cover;
+height: 36vh;
+}
+.middle-bottom{
+  padding: 20px;
+}
+.right-img{
+  background-image: url("images/image-about-light.jpg");
+  height: 36vh;
+}
